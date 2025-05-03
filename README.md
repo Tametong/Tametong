@@ -14,7 +14,7 @@
 
 
 
-## Citation inspirante qui m'inspire
+## Citation qui m'inspire
 
 > *“Le meilleur moyen de prédire l’avenir, c’est de le créer.”* — Peter Drucker
 
