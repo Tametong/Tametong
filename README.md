@@ -21,7 +21,7 @@
 ---
 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 ## 🛠️ Compétences techniques
 
@@ -39,6 +39,7 @@
 
 - 📧 Email : [tonemail@email.com](mailto:mesbus8@gmail.com)
 - 💼 LinkedIn : [linkedin.com/in/tonprofil](https://www.linkedin.com/in/tametong-essoh-paul-marie-2739ba2b3/)
+- 📱Tel: +237 652604028
 
 
 ## 🚧 Projets en cours
@@ -46,6 +47,7 @@
 - 💼 Application Flutter de gestion de budget personnel
 - 🌍 Site e-commerce full-stack avec Django + React
 - 📚 Plateforme d'achat et de vente immobilière
+- Et bien plus
 
 ---
 
