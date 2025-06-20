@@ -1,9 +1,9 @@
 # 👋 Salut, je suis TAMETONG ESSOH Paul Marie
 
-🎓 Étudiant en Génie Logiciel à l'IAI-Cameroun  
-💻 Développeur web & mobile passionné  
-🚀 Toujours curieux d’apprendre de nouvelles technologies et de relever des défis techniques  
-📱 Spécialisé en Flutter, Django, React, et bien plus
+Étudiant en Génie Logiciel à l'IAI-Cameroun  
+Développeur web & mobile passionné  
+Toujours curieux d’apprendre de nouvelles technologies et de relever des défis techniques  
+Spécialisé en Flutter, Django, React, et bien plus
 ---
 
 
@@ -23,7 +23,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
-## 🛠️ Compétences techniques
+## Compétences techniques
 
 - Langages : Dart, Python, JavaScript, PHP, SQL
 - Frameworks & outils : Flutter, Django, React, Laravel, Bootstrap, Tailwindcss
@@ -35,18 +35,18 @@
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Tametong&show_icons=true&theme=tokyonight)
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Tametong&layout=compact&theme=tokyonight)
 
-## 📫 Me contacter
+## Me contacter
 
-- 📧 Email : [tonemail@email.com](mailto:mesbus8@gmail.com)
-- 💼 LinkedIn : [linkedin.com/in/tonprofil](https://www.linkedin.com/in/tametong-essoh-paul-marie-2739ba2b3/)
-- 📱Tel: +237 652604028
+- Email : [tonemail@email.com](mailto:mesbus8@gmail.com)
+- LinkedIn : [linkedin.com/in/tonprofil](https://www.linkedin.com/in/tametong-essoh-paul-marie-2739ba2b3/)
+- Tel: +237 652604028
 
 
-## 🚧 Projets en cours
+##  Projets en cours
 
-- 💼 Application Flutter de gestion de budget personnel
-- 🌍 Site e-commerce full-stack avec Django + React
-- 📚 Plateforme d'achat et de vente immobilière
+-  Application Flutter de gestion de budget personnel
+-  Site e-commerce full-stack avec Django + React
+-  Plateforme d'achat et de vente immobilière
 - Et bien plus
 
 ---
