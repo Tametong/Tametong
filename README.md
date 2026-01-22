@@ -1,6 +1,6 @@
 # 👋 Salut, je suis TAMETONG ESSOH Paul Marie
 
-Étudiant en Génie Logiciel à l'IAI-Cameroun  
+Étudiant en Génie Logiciel  
 Développeur web & mobile passionné  
 Toujours curieux d’apprendre de nouvelles technologies et de relever des défis techniques  
 Spécialisé en Flutter, Django, React, et bien plus
