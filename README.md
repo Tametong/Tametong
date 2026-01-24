@@ -37,8 +37,8 @@ Spécialisé en Flutter, Django, React, et bien plus
 
 ## Me contacter
 
-- Email : [tonemail@email.com](mailto:mesbus8@gmail.com)
-- LinkedIn : [linkedin.com/in/tonprofil](https://www.linkedin.com/in/tametong-essoh-paul-marie-2739ba2b3/)
+- Email : [mesbus8@gmail.com](mailto:mesbus8@gmail.com)
+- LinkedIn : [Tametong Essoh Paul Marie](https://www.linkedin.com/in/tametong-essoh-paul-marie-2739ba2b3/)
 - Tel: +237 652604028
 
 
