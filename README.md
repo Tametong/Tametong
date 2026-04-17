@@ -3,7 +3,7 @@
 Étudiant en Génie Logiciel  
 Développeur web & mobile passionné  
 Toujours curieux d’apprendre de nouvelles technologies et de relever des défis techniques  
-Spécialisé en Flutter, Django, React, et bien plus
+Spécialisé en Flutter, Django, laravel, React, et bien plus
 ---
 
 
